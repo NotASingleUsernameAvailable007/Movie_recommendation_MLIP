@@ -1,0 +1,7 @@
+
+.DS_Store
+*.pyc
+/data/evaluation/
+
+*/credentials.py
+data_collecting_monitoring/kafka_raw_logs_*
